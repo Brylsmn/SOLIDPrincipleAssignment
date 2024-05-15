@@ -54,4 +54,7 @@ Improve the following codes to implement SOLID principles in OOP.
       }
     }
 
+# UML Class Diagram
+![solid principle assignment](https://github.com/Brylsmn/SOLIDPrincipleAssignment/assets/142909052/ae14bbb9-7abc-4269-8527-a432247a3d28)
+
 
